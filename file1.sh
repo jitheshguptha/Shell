@@ -1,6 +1,6 @@
 #!/bin/bash
-var=""
-if [ -z "$var" ];
+variable=""
+if [ -z "$variable" ];
 then
     echo "Variable is empty"
 else
